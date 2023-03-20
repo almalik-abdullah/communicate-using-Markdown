@@ -10,3 +10,7 @@
 ```
 Print('Hello World')
 ```
+
+- [x] List syntax is rewuired
+- [x] this task is complete
+- [ ] this task is not complete
