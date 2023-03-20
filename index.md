@@ -6,3 +6,7 @@
 ###### H6 header
 
 ![Image of bamboo](https://www.nature-and-garden.com/wp-content/uploads/sites/4/2022/09/bamboo.jpg)
+
+```
+Print('Hello World')
+```
